@@ -1,0 +1,17 @@
+LINET-2020 - https://dataset.litnet.lt/
+
+IoT-2020 - https://www.stratosphereips.org/datasets-iot23
+
+NetML-2020 - https://evalai.cloudcv.org/web/challenges/challenge-page/526/overview
+
+IDS-2018 - https://www.unb.ca/cic/datasets/ids-2018.html
+
+CICIDS-2017 - https://www.unb.ca/cic/datasets/ids-2017.html
+
+URG-16 - https://nesg.ugr.es/nesg-ugr16/
+
+UNSW-NB15 - https://www.unsw.adfa.edu.au/unsw-canberra-cyber/cybersecurity/ADFA-NB15-Datasets/
+
+IDS-2012 - https://www.unb.ca/cic/datasets/ids.html
+
+
